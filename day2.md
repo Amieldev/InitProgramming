@@ -17,4 +17,12 @@
  <li>Transport</li>
  <li>Network(Internet)</li>
  <li>Network Interface</li>
+ <h1>Web Attacks</h1>
+ <p>Web attacks are attacks that exploit vulnerabilities found inside unpatched web applications</p>
+ <p>These include:</p>
+ <list>
+  <li>Cross-Site exploit(XSS)</li>
+  <li>HTTP paramenter pollution</li>
+  <li>JWT attack</li>
+ </list>
 </list>
