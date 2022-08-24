@@ -2,7 +2,7 @@ const axios=require('axios');
 const chalk=require('chalk');
 const figlet=require('figlet');
 
-figlet('PingJS',function(err,data) {
+figlet('PingApp',function(err,data) {
     if (err) {
         console.log('Something went wrong...');
         console.dir(err);
