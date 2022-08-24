@@ -1,16 +1,15 @@
 # 5 Useful Linux commands
 
-# 1,Nano
-
->>Nano a very lightweight terminal based text-editor which is very similar to vim.
->>But unlike vim which requires the user to remember multiple shortcuts inorder to get basic functionality.
->>This makes nano a pretty cool tool to edit config files right away.
->>e.g nano app.js
-
-# 2,Alias
+# 1,Alias
 
 >>The Alias command is a very useful linux utility that allows you to set custom crafted commands inorder to simplify a given task.
 >>e.g alias runcode="python app.py"
+
+# 2,Nano
+
+>>Nano a very lightweight terminal based text-editor which is very similar to vim.
+>>But unlike vim which requires the user to remember multiple shortcuts inorder to get basic functionality nano makes it pretty easy to get used to and edit configuration files on the way.
+>>e.g nano app.js
 
 # 3,Mv
 
