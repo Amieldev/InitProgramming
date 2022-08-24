@@ -5,16 +5,15 @@
 >>The Alias command is a very useful linux utility that allows you to set custom crafted commands inorder to simplify a given task.
 >>e.g alias runcode="python app.py"
 
-# 2,Nano
+# 2,Unzip
 
->>Nano a very lightweight terminal based text-editor which is very similar to vim.
->>But unlike vim which requires the user to remember multiple shortcuts inorder to get basic functionality nano makes it pretty easy to get used to and edit configuration files on the way.
->>e.g nano app.js
+>>The unzip command allows a user to easily extract a compressed format right from the terminal.
+>>e.g unzip folder.zip
 
-# 3,Mv
+# 3,Ps
 
->>The mv command allows the user the move a file from one location to another directory in a given file system.
->>e.g mv file.png ../../Desktop
+>>The ps command allows the user to list current sessions in the terminal.
+>>It gives information such as processID,time and command name.
 
 # 4,Man
 
@@ -23,5 +22,5 @@
 
 # 5,Chmod
 
->>The chmod command allows user to control permissions to a given file such as reading,writing and executing easily.
->>.e.g chmod +x program
+>>The chmod command allows the user to control permissions to a given file such as reading,writing and executing pretty easily.
+>>e.g chmod +x program
