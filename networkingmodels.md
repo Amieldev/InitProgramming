@@ -17,3 +17,4 @@
  <li>Network(Internet)</li>
  <li>Network Interface</li>
 </list>
+<p>The main difference between the OSI model and the TCP/IP model happens to be that the TCP/IP model simplifies most of the layers used in the OSI model which makes it much easier to work with.</p>
